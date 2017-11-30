@@ -13,6 +13,6 @@ public class Test {
 public static void main(String[] args) {
     Chose chose=new Chose();
     Factory factory = chose.create(2);
-    //改变了
+    
 }
 }
